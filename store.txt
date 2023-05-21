@@ -1,0 +1,5 @@
+TV      50000
+Phone    20000
+Computer    65000
+Handgrip    250
+pencil case    1000
