@@ -1,5 +1,5 @@
 def add(*add):
     for i in range(len(add)):
-        add += i 
+        add += add[i] 
     return add
-        
+print(add)        
